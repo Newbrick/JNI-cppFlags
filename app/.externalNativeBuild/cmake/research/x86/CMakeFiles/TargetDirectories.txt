@@ -1,0 +1,3 @@
+D:/Nbk/JNI-cppFlags/app/.externalNativeBuild/cmake/research/x86/CMakeFiles/native-lib.dir
+D:/Nbk/JNI-cppFlags/app/.externalNativeBuild/cmake/research/x86/CMakeFiles/edit_cache.dir
+D:/Nbk/JNI-cppFlags/app/.externalNativeBuild/cmake/research/x86/CMakeFiles/rebuild_cache.dir
